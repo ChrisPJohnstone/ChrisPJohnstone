@@ -2,7 +2,7 @@
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPJohnstone)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPJohnstone&theme=dark)]
 
 ## Stats
 
