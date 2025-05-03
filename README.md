@@ -6,10 +6,6 @@ I'm way too enthusiastic about customising your tools to work for you which is p
 
 I also use a [cli todo app](https://github.com/ChrisPJohnstone/todo) which I built myself
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPJohnstone&theme=dark&layout=donut)]
-
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPJohnstone&theme=dark&show_icons=true)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPJohnstone&theme=dark&layout=donut)] [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPJohnstone&theme=dark&show_icons=true)]
