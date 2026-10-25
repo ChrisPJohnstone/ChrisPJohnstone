@@ -12,4 +12,8 @@
 
 ## Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+<p align="center" style="background-color:#1a1a2e; padding: 20px;">
+<a href="https://github.com/ChrisPJohnstone">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" />
+</a>
+</p>
